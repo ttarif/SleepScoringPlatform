@@ -1,8 +1,5 @@
 
 # Understanding the Sleep Patterns of Deep Diving Northern Elephant Seals using Visualization and AI
-## UCSD DSE MAS Seal Sleep Capstone Project
-
-By Michael Sorenson, Melody Song, Tarik Basic, Yousuf Rajput, & Tarek Tarif
 
 Project advisors: Jessica Kendall-Bar and Ilkay Altintas
 
