@@ -1,0 +1,51 @@
+# EDF File Combiner
+
+This Python script allows you to combine multiple EDF (European Data Format) files into a single EDF file.
+
+## Requirements
+
+- Python 3.x
+- Required Python packages:
+  - `mne`: `pip install mne`
+  - `pyedflib`: `pip install pyedflib`
+  - `tkinter` (usually comes pre-installed with Python)
+
+## Usage
+
+1. Clone or download this repository to your local machine.
+
+2. Navigate to the directory containing the script (`combine_edf_files.py`).
+
+3. Open a terminal or command prompt in this directory.
+
+4. Run the script by executing the following command:
+
+   ```bash
+   python combine_edf_files.py
+   ```
+
+5. A GUI (Graphical User Interface) window will appear.
+
+6. Click on the "Select Directory and Files" button.
+
+7. Navigate to the directory containing the EDF files you want to combine.
+
+8. Select one or more EDF files.
+
+9. Enter a name for the combined EDF file in the popup window.
+
+10. Click "OK" or press Enter.
+
+11. The script will combine the selected EDF files into a single EDF file with the provided name.
+
+12. The combined EDF file will be saved in the same directory as the original files.
+
+13. Once the process is complete, you will see a confirmation message in the terminal or command prompt.
+
+14. You can find the combined EDF file in the selected directory.
+
+## Notes
+
+- Make sure that all selected EDF files have the same sampling rate and channel configurations.
+- The combined EDF file will contain the data from all selected files concatenated together.
+- The script uses `mne` and `pyedflib` libraries for handling EDF files.

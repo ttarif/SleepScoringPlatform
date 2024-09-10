@@ -1,0 +1,28 @@
+# OpenStack File Downloader
+
+This Python script provides a graphical user interface (GUI) to download files from an OpenStack cloud storage container. The script uses the `openstacksdk` and `tkinter` libraries.
+
+## Features
+
+- Connects to an OpenStack cloud.
+- Lists objects in a specified container.
+- Downloads selected objects to a specified directory.
+- Provides a GUI to select and download files.
+
+## How to Use
+
+1. Run the script. A window titled "OpenStack File Downloader" will open.
+2. In the listbox, select a name. The checkboxes for the corresponding files will appear on the right.
+3. Select the checkboxes for the files you want to download.
+4. Click the "Download selected files" button. A dialog will open for you to select a directory.
+5. Select a directory and click OK. The selected files will be downloaded to the specified directory.
+
+## Dependencies
+
+- Python 3
+- openstacksdk
+- tkinter
+
+## Requirements
+
+Before running the script, ensure your terminal is set at the same local directory as the script with your clouds.yaml file obtained from OpenStack(identity). Add the password section following the username in the clouds.yaml file: i.e. `password: "password"`.

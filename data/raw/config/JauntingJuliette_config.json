@@ -1,0 +1,11 @@
+{
+    "ECG Channel": "ECG_Raw",
+    "EEG Channel": "REEG_Ch7_Pruned",
+    "Pressure Channel": "Depth",
+    "GyrZ Channel": "GyrZ",
+    "MagZ Channel": "MagZ",
+    "ODBA Channel": null,
+    "Pressure Freq": 250,
+    "GyrZ Freq": 250,
+    "MagZ Freq": 250
+}

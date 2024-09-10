@@ -1,0 +1,13 @@
+yasa
+mne
+scipy
+six
+scikit-learn
+pomegranate
+numpy
+pandas
+matplotlib
+pyedflib
+sleepecg
+wfdb
+pytz
