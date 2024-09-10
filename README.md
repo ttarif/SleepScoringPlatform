@@ -1,8 +1,6 @@
 
 # Understanding the Sleep Patterns of Deep Diving Northern Elephant Seals using Visualization and AI
 
-Project advisors: Jessica Kendall-Bar and Ilkay Altintas
-
 Welcome to the repository for Understanding the Sleep Patterns of Deep Diving Northern Elephant Seals using Visualization and AI. This project aims to develop a robust and scalable tool that leverages advanced artificial intelligence techniques and intuitive visualizations to analyze and understand the sleeping patterns of northern elephant seals. By providing researchers with a user-friendly interface and powerful analytical tools, this project seeks to enhance the study of marine animal behavior and contribute to the broader field of ecological research. This repository contains all the necessary code, models, and documentation to support the development, deployment, and use of the sleep pattern analysis tool.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
